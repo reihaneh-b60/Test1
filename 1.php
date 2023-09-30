@@ -14,7 +14,7 @@
 <input type="number" name="cod">
 <br>
 <br>
-<td>فامیل</td>
+<td>نام خانوادگی</td>
 <input type="text" name="family">
 <br>
 <br>
