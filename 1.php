@@ -15,7 +15,7 @@
 <br>
     
 <br>
-<td>نام خانوادگی</td>
+<td> نام خانوادگی </td>
 <input type="text" name="family">
 <br>
 <br>
